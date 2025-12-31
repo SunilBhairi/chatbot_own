@@ -8,7 +8,7 @@ from langchain_core.messages import HumanMessage
 # Page Configuration
 # ======================================================
 st.set_page_config(
-    page_title="Sunil's Chatbot",
+    page_title="Assistant Chatbot",
     page_icon="🤖",
     layout="centered"
 )
